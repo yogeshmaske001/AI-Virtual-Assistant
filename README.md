@@ -1,6 +1,11 @@
+<img width="1812" height="862" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/a0bd1325-2edc-40ab-9238-c974ce2d738a" />
+
 🤖 AI Virtual Assistant – MERN Stack
 
 A voice-enabled, smart AI assistant built using the MERN stack. Supports real-time speech input, chat history, authentication, profile customization, and full-stack deployment on Render.
+
+
+
 📂 GitHub Repo: [https://lnkd.in/getw5AJC]
  🎯 Live Demo: [https://lnkd.in/gZHrCtPP]
 
@@ -58,7 +63,7 @@ Axios
 
 Web Speech API
 
-Tailwind / CSS (your UI library can be mentioned)
+Tailwind / CSS  
 
 Backend
 
@@ -95,7 +100,7 @@ Cloudinary for image hosting
 
 4.Dark / Light UI theme
 
-5.Optional AI model integration (OpenAI, Gemini, etc.)![Lindin photo](https://github.com/user-attachments/assets/52d72a9b-4acc-44f9-8c3e-b6e1188e92fd)
+5.Optional AI model integration (OpenAI, Gemini, etc.) 
 
 
 🤝 Feedback
